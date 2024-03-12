@@ -3,10 +3,10 @@
 <img align="right" alt="Coding"width="400"src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kbansal17&label=Profile%20views&color=0e75b6&style=flat" alt="kbansal17" /> </p>
-
 - 📫 How to reach me **khushibansal17june2003@gmail.com**
 
 - ⚡ Fun fact **I am Funny..**
+- 🌱 I’m currently learning **Artificial Intelligence And Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
